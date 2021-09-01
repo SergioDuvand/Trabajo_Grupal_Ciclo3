@@ -1,2 +1,2 @@
-# Primer tarbajo HTML grupal
-Este proyecto fue cosntruido como prueba, programado en HTM y es un ejemplo.
+# Primer trabajo HTML grupal
+Este proyecto fue construido como prueba, programado en HTML5 y es un ejemplo.
